@@ -120,3 +120,83 @@
   transition: color 0.3s ease;
 }
 
+/* This is the services section */
+
+#services {
+  margin-top: 5%;
+  text-align: center;
+  padding: 50px;
+  padding-bottom: 5%;
+  position: relative;
+  top: 30px;
+  background-color: whitesmoke;
+}
+
+#services h2{
+  margin-top: 5%;
+  font-size: 44px;
+}
+
+#services li {
+  font-size: 22px;
+  background-color: white;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  padding-right: 1.5%;
+  padding-left: 1.5%;
+  padding: auto;
+  width: 10%;
+  height: auto;
+  display: inline-block;
+  margin: 1%;
+  justify-content: center;
+}
+
+#services li:first-child {
+  background-color: orangered;
+}
+
+#services li:hover{
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* This is the services section */
+
+#services {
+  margin-top: 5%;
+  text-align: center;
+  padding: 50px;
+  padding-bottom: 5%;
+  position: relative;
+  top: 30px;
+  background-color: whitesmoke;
+}
+
+#services h2{
+  margin-top: 5%;
+  font-size: 44px;
+}
+
+#services li {
+  font-size: 22px;
+  background-color: white;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  padding-right: 1.5%;
+  padding-left: 1.5%;
+  padding: auto;
+  width: 10%;
+  height: auto;
+  display: inline-block;
+  margin: 1%;
+  justify-content: center;
+}
+
+#services li:first-child {
+  background-color: orangered;
+}
+
+#services li:hover{
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+
